@@ -20,3 +20,11 @@ Proyecto: T2\_Laguna\_Mamani
 
 Repositorio creado para la evaluación T2 utilizando Maven y Git.
 
+
+
+\## Evidencia T2
+
+
+
+Esta sección identifica la evidencia correspondiente a la evaluación T2 de Git y Maven.
+
