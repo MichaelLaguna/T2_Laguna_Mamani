@@ -38,3 +38,17 @@ Se realizaron modificaciones para practicar el uso del Working Directory,
 
 Staging Area y control de versiones mediante Git.
 
+
+
+\## Gestión de ramas
+
+
+
+Rama utilizada: feature-laguna
+
+
+
+Se desarrolló la clase ControlVersion\_Laguna.java para demostrar el
+
+trabajo independiente mediante ramas Git.
+
