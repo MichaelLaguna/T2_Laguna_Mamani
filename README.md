@@ -28,3 +28,13 @@ Repositorio creado para la evaluación T2 utilizando Maven y Git.
 
 Esta sección identifica la evidencia correspondiente a la evaluación T2 de Git y Maven.
 
+
+
+\## Control de cambios
+
+
+
+Se realizaron modificaciones para practicar el uso del Working Directory,
+
+Staging Area y control de versiones mediante Git.
+
